@@ -31,9 +31,9 @@
 
 ## 相关链接
 
-* 官方主页: [http://www.opensuse.org/zh-cn/](http://www.opensuse.org/zh-cn/)
-* 邮件列表: [http://en.opensuse.org/Communicate/Mailinglists](http://en.opensuse.org/Communicate/Mailinglists)
-* 论坛: [http://forums.opensuse.org/](http://forums.opensuse.org/)
-* 中文论坛: [http://forums.opensuse.cn/](http://forums.opensuse.cn/)
-* Wiki: [http://en.opensuse.org/](http://en.opensuse.org/)
-* 文档: [http://en.opensuse.org/Documentation](http://en.opensuse.org/Documentation)
+* 官方主页: [https://www.opensuse.org/zh-cn/](https://www.opensuse.org/zh-cn/)
+* 邮件列表: [https://en.opensuse.org/Communicate/Mailinglists](https://en.opensuse.org/Communicate/Mailinglists)
+* 论坛: [https://forums.opensuse.org/](https://forums.opensuse.org/)
+* 中文论坛: [https://forums.opensuse.cn/](https://forums.opensuse.cn/)
+* Wiki: [https://en.opensuse.org/](https://en.opensuse.org/)
+* 文档: [https://en.opensuse.org/Documentation](https://en.opensuse.org/Documentation)

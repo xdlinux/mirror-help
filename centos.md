@@ -75,9 +75,9 @@ gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
 
 ## 相关链接
 
-* 官方主页: [http://www.centos.org/](http://www.centos.org/)
-* 邮件列表: [http://www.centos.org/modules/tinycontent/index.php?id=16](http://www.centos.org/modules/tinycontent/index.php?id=16)
-* 论坛: [http://www.centos.org/modules/newbb/](http://www.centos.org/modules/newbb/)
-* 文档: [http://www.centos.org/doc/](http://www.centos.org/doc/)
-* Wiki: [http://wiki.centos.org/](http://wiki.centos.org/)
-* 镜像列表: [http://www.centos.org/modules/tinycontent/index.php?id=32](http://www.centos.org/modules/tinycontent/index.php?id=32)
+* 官方主页: [https://www.centos.org/](https://www.centos.org/)
+* 邮件列表: [https://www.centos.org/modules/tinycontent/index.php?id=16](https://www.centos.org/modules/tinycontent/index.php?id=16)
+* 论坛: [https://www.centos.org/modules/newbb/](https://www.centos.org/modules/newbb/)
+* 文档: [https://www.centos.org/doc/](https://www.centos.org/doc/)
+* Wiki: [https://wiki.centos.org/](https://wiki.centos.org/)
+* 镜像列表: [https://www.centos.org/modules/tinycontent/index.php?id=32](https://www.centos.org/modules/tinycontent/index.php?id=32)
