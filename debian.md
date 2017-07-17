@@ -22,14 +22,21 @@
 
 ## 使用说明
 
-以`stretch`为例，编辑`/etc/apt/sources.list`, 在文件最前面添加以下条目(操作前请做好相应备份)
+以`stretch`为例，编辑`/etc/apt/sources.list`, 在文件最前面添加以下条目  
+请根据需要去掉 `deb-src` 以及 `proposed-updates` 和 `backports` 的注释
 
 ```
 deb http://mirrors.xdlinux.info/debian/ stretch main non-free contrib
-deb-src http://mirrors.xdlinux.info/debian/ stretch main non-free contrib
+#deb-src http://mirrors.xdlinux.info/debian/ stretch main non-free contrib
 
-deb http://mirrors.xdlinux.info/debian/ stretch-proposed-updates main non-free contrib
-deb-src http://mirrors.xdlinux.info/debian/ stretch-proposed-updates main non-free contrib
+deb http://mirrors.xdlinux.info/debian/ stretch-updates main non-free contrib
+#deb-src http://mirrors.xdlinux.info/debian/ stretch-updates main non-free contrib
+
+#deb http://mirrors.xdlinux.info/debian/ stretch-proposed-updates main non-free contrib
+#deb-src http://mirrors.xdlinux.info/debian/ stretch-proposed-updates main non-free contrib
+
+#deb http://mirrors.xdlinux.info/debian/ stretch-backports main non-free contrib
+#deb-src http://mirrors.xdlinux.info/debian/ stretch-backports main non-free contrib
 ```
 
 安全更新请参见 [debian-security](./debian-security.md)  
