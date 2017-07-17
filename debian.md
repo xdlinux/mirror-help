@@ -23,7 +23,7 @@
 ## 使用说明
 
 以`stretch`为例，编辑`/etc/apt/sources.list`, 在文件最前面添加以下条目  
-请根据需要去掉 `deb-src` 以及 `proposed-updates` 和 `backports` 的注释
+请根据需要去掉 `deb-src` 以及 `proposed-updates` 和 `backports` 前面的注释
 
 ```
 deb http://mirrors.xdlinux.info/debian/ stretch main non-free contrib
