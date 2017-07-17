@@ -1,5 +1,23 @@
 # debian
 
+## 介绍
+
+> The universal operating system
+
+## 收录版本
+
+* sid (unstable)
+* buster (10 testing)
+* stretch (9 stable)
+* jessie (8 oldstable)
+* wheezy (7 old-oldstable)
+
+## 收录架构
+
+* x86_64
+* i386
+* armhf
+
 ## 使用说明
 
 以`stretch`为例，编辑`/etc/apt/sources.list`, 在文件最前面添加以下条目(操作前请做好相应备份)
