@@ -19,11 +19,12 @@ debian 的安全更新
 
 ## 使用说明
 
-以`stretch`为例，编辑`/etc/apt/sources.list`, 在文件最前面添加以下条目(操作前请做好相应备份)
+以`stretch`为例，编辑`/etc/apt/sources.list`, 在文件最前面添加以下条目  
+请根据需要去掉 `deb-src` 前面的注释
 
 ```
 deb http://mirrors.xdlinux.info/debian-security/ stretch/updates main contrib non-free
-deb-src http://mirrors.xdlinux.info/debian-security/ stretch/updates main contrib non-free
+#deb-src http://mirrors.xdlinux.info/debian-security/ stretch/updates main contrib non-free
 ```
 
 ## 相关链接
