@@ -2,7 +2,7 @@
 
 ## 使用说明
 
-编辑/etc/pacman.d/mirrorlist, 在文件最前面添加以下条目(操作前请做好相应备份)
+编辑`/etc/pacman.d/mirrorlist`, 在文件最前面添加以下条目(操作前请做好相应备份)
 
 ```
 Server = https://mirrors.xdlinux.info/archlinux/$repo/os/$arch
