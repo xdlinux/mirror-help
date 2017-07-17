@@ -17,7 +17,7 @@
 
 ## 使用说明
 
-编辑`/PATH/TO/FILE`, 在文件开头添加以下内容
+编辑`/PATH/TO/FILE`， 在文件开头添加以下内容
 
 ```
 MIRROR SETTINGS

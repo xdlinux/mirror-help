@@ -2,7 +2,7 @@
 
 ## 介绍
 
-EPEL (Extra Packages for Enterprise Linux) ，适用于 Red Hat Enterprise Linux (RHEL), CentOS, Scientific Linux (SL), Oracle Linux (OL)
+EPEL (Extra Packages for Enterprise Linux) ，适用于 Red Hat Enterprise Linux (RHEL)， CentOS， Scientific Linux (SL)， Oracle Linux (OL)
 
 ## 收录版本
 

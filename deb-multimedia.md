@@ -21,7 +21,7 @@ Debian 第三方多媒体软件源
 
 ## 使用说明
 
-以 `stretch` 为例, 编辑 `/etc/apt/sources.list` 文件, 在文件开头添加以下内容  
+以 `stretch` 为例，编辑 `/etc/apt/sources.list` 文件，在文件开头添加以下内容  
 请根据需要去掉 `deb-src` 和 `backports` 前面的注释
 
 ```

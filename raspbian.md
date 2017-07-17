@@ -17,7 +17,7 @@
 
 ## 使用说明
 
-以`stretch`为例，编辑`/etc/apt/sources.list`, 在文件开头添加以下内容
+以`stretch`为例，编辑`/etc/apt/sources.list`， 在文件开头添加以下内容
 
 ```
 deb http://mirrors.xdlinux.info/raspbian/raspbian/ stretch main non-free contrib

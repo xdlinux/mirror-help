@@ -14,7 +14,7 @@ Archlinux 中文社区仓库
 
 ## 使用说明
 
-编辑`/etc/pacman.conf`, 在文件末尾添加以下内容
+编辑`/etc/pacman.conf`， 在文件末尾添加以下内容
 
 ```
 [archlinuxcn]
