@@ -21,7 +21,7 @@
 
 ## 使用说明
 
-以`xenial`为例，编辑`/etc/apt/sources.list`, 在文件最前面添加以下条目
+以`xenial`为例，编辑`/etc/apt/sources.list`, 在文件开头添加以下内容
 请根据需要去掉 `deb-src` 以及 `proposed-updates` 和 `backports` 前面的注释
 
 ```
