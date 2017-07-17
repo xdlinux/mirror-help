@@ -17,7 +17,7 @@
 ## 使用说明
 
 
-首先备份 :file:`CentOS-Base.repo`
+首先备份 `CentOS-Base.repo`
 
 ```
 mv /etc/yum.repos.d/CentOS-Base.repo /etc/yum.repos.d/CentOS-Base.repo.backup
